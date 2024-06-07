@@ -23,6 +23,7 @@ body{
         top:8rem;
 }
 .right p{
+    color: gray;
     font-size: 25px;
     width: 600px;
     right: 8em;
@@ -191,8 +192,8 @@ body{
     }
     body{
         
-       
-        background: linear-gradient(to bottom , rgb(255, 0, 238), rgb(190, 0, 248));
+       background: url(bg.jpg);
+        
         background-size: cover;
        
        
